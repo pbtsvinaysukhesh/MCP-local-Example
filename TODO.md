@@ -1,0 +1,4 @@
+- [x] Update pyproject.toml to add langchain-ollama dependency
+- [x] Modify client.py to use ChatOllama with llama3.2:3b model
+- [x] Install updated dependencies using uv sync
+- [x] Test the client by running python client.py
